@@ -252,4 +252,8 @@ footer {
         gap: 10px;
     }
 
+    .logo{
+        display: none;
+    }
+
 }
