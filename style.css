@@ -256,4 +256,8 @@ footer {
         display: none;
     }
 
+    .contact-card {
+        width: 70px;
+    }
+
 }
